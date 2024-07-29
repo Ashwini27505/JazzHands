@@ -1,5 +1,5 @@
 //
-//  IFTTTCircleView.h
+//  
 //  JazzHandsDemo
 //
 //  Created by Laura Skelton on 6/25/15.
