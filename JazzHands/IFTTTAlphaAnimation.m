@@ -8,7 +8,7 @@
 
 #import "IFTTTAlphaAnimation.h"
 
-@implementation IFTTTAlphaAnimation
+
 
 - (void)addKeyframeForTime:(CGFloat)time alpha:(CGFloat)alpha
 {
