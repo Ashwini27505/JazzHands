@@ -16,7 +16,6 @@
 @property (nonatomic, weak) id <IFTTTAnimatedScrollViewControllerDelegate> delegate;
 
 @property (nonatomic, strong) IFTTTAnimator *animator;
-@property (nonatomic, strong) UIScrollView *scrollView;
 
 @end
 
