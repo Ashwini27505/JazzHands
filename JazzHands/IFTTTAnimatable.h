@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 IFTTT Inc. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+
 
 @protocol IFTTTAnimatable <NSObject>
 
